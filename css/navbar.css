@@ -1,0 +1,127 @@
+/*-- Navbar --*/
+
+#main-nav .container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#main-nav .pull-left img {
+  height: 100px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+  color: #9d9d9d;
+}
+
+#main-nav li a:not(#circular-image):not(.bullet-a){
+  line-height: 70px; /*vertically center menu items*/
+  position: relative;
+  display: block;
+  text-align:center;
+}
+
+/* ----------------------- */
+
+/* Subscribe to Newsweek */
+
+#main-nav li #circular-image {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.banner-subscribe-to {
+  width: 175px;
+}
+#main-nav .wrapper {
+  margin: 0 auto;
+}
+
+.banner-subscribe-to p {
+  text-align: center;
+  display: block;
+}
+
+#main-nav .img-circle {
+  border-radius: 50%;
+  height: 65px;
+  width: 65px;
+  vertical-align:middle;
+  text-align: left;
+  float: left;
+}
+
+.banner-subscribe-to span {
+  padding-top: 10px;
+  padding-left: 10px;
+  display: table-cell;
+  font-size: 15px;
+  vertical-align:middle;
+}
+
+.banner-subscribe-to span::first-line {
+  color:yellow;
+}
+
+#main-nav .divider-vertical {
+  height: 100px;
+  border-right: 1px solid #ffffff;
+  border-left: 1px solid #f2f2f2;
+}
+
+#main-nav.navbar-inverse .divider-vertical {
+  border-right-color: #6f6f6f;
+  border-left-color: #111111;
+}
+
+.banner-width-set {
+  width: 100px;
+}
+
+/* Sign In */
+
+.banner-sign-in {
+  width: 100px;
+}
+
+/* small screen navbar*/
+
+.navbar-collapse.collapse {
+  display: block!important;
+}
+
+.navbar-collapse {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.navbar-nav > li, .navbar-nav {
+  float: left !important;
+}
+
+.navbar-right {
+  float: right!important;
+}
+
+@media (min-width: 768px) {
+  #main-nav .navbar-right {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px){
+  #main-nav .container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  #main-nav .navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  #main-nav .navbar-nav {
+    margin: 0 0 0 15px;
+  }
+}

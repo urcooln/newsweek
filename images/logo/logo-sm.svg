@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>N Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-Nav-[Condensed]-Signed-Out" sketch:type="MSArtboardGroup">
+            <g id="Desktop-Nav-[Default]" sketch:type="MSLayerGroup" transform="translate(0.000000, -1.000000)">
+                <g id="N-Logo" transform="translate(0.000000, 1.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle" fill="#FF0500" x="0" y="0" width="80" height="80"></rect>
+                    <path d="M57.6168685,29.2156907 L54.3736844,29.2156907 L54.3736844,57.1168685 L48.3917156,57.1168685 L33.7752154,38.107658 L33.7752154,50.9011779 L37.0183996,50.9011779 L37.0183996,57.1168685 L23.5,57.1168685 L23.5,50.9011779 L26.7425683,50.9011779 L26.7425683,29.2156907 L23.5,29.2156907 L23.5,23 L33.7622821,23 L47.3416531,40.6934 L47.3416531,29.2156907 L44.0978531,29.2156907 L44.0978531,23 L57.6168685,23 L57.6168685,29.2156907 L57.6168685,29.2156907 Z" id="Logo" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
